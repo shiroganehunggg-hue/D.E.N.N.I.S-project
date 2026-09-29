@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+src/config/*_keys.json
+
+.venv/
+.venv_*/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+pytest_out.txt
+
+memory/*.json
+memory/screenshots/
+*.log
+ocr_test.png

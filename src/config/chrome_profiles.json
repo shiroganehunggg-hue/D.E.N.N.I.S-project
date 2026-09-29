@@ -1,0 +1,10 @@
+{
+  "_huong_dan": "File này ánh xạ TÊN GỌI THÂN THIỆN (bạn dùng khi ra lệnh cho DENNIS) sang TÊN THƯ MỤC PROFILE THẬT của Chrome (Profile 1, Profile 2, Profile 32, Default...). Cách tìm tên thư mục thật: mở Chrome, gõ chrome://version vào thanh địa chỉ của đúng profile đó, xem dòng 'Profile Path' - phần cuối cùng của đường dẫn (vd '...\\User Data\\Profile 15') chính là tên cần điền bên phải. Khoá 'default_profile' là profile dùng khi người dùng KHÔNG nói tên profile cụ thể.",
+  "default_profile": "Profile 32",
+  "aliases": {
+    "công việc": "Profile 32",
+    "cá nhân": "Profile 32",
+    "DENNIS": "Profile 32",
+    "tài khoản DENNIS": "Profile 32"
+  }
+}

@@ -1,0 +1,13 @@
+openai>=1.0.0
+google-genai>=0.8.0
+python-dotenv>=0.21.0
+Pillow>=9.0.0
+matplotlib>=3.5.0
+numpy>=1.21.0
+pywin32>=305
+playwright>=1.40.0
+pytesseract>=0.3.10
+sentence-transformers>=3.0.0
+
+# Optional / dev
+pytest>=7.0.0

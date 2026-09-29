@@ -1,0 +1,8 @@
+graph TD
+    A[User Request] --> B[Intent Router]
+    B --> C[Planner]
+    C --> D[Execution Plan]
+    D --> E[Executor]
+    E --> F[Tool Results]
+    F --> G[Reflection]
+    G --> H[Final Response]
